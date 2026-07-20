@@ -139,9 +139,9 @@ By completing this project, you will learn:
 
 ## Author
 
-**NANDHITHA**
+**Prayas Vijay**
 
-B.E. Cyber Security Student
+B.Tech. Computer Science Student
 
 CodeAlpha Cyber Security Intern
 
